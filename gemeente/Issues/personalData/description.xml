@@ -1,11 +1,11 @@
 <IssueSpecification version="4">
 	<Name>
 		<en>Citizen data</en>
-		<nl>Inwonersgegevens</nl>
+		<nl>Inwonersgegevens van mij</nl>
 	</Name>
 	<ShortName>
 		<en>Citizen data</en>
-		<nl>Inwonersgegevens</nl>
+		<nl>Inwonersgegevens van mij</nl>
 	</ShortName>
 	<SchemeManager>pbdf</SchemeManager>
 	<IssuerID>gemeente</IssuerID>
